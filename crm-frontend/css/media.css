@@ -14,18 +14,6 @@
     min-width: 231px;
 }
 
-.table__td_contacts {
-    display: table-cell;
-}
-
-.table__link {
-    margin-right: 5px;
-}
-
-.table__link:nth-child(5n) {
-    margin-right: 0;
-}
-
 .contacts-btn {
     display: inline-flex;
 }
@@ -108,7 +96,7 @@ margin-bottom: 33px;
     width: 100%;
     overflow: scroll;
 }
-    
+
     .table {
         display: block;
         min-width: 728px;
